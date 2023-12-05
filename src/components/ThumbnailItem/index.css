@@ -1,0 +1,29 @@
+/* Write your code here. */
+
+.img {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.head {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: black;
+  font-weight: bold;
+}
+
+.para {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  cursor: pointer;
+}
